@@ -1,0 +1,1 @@
+{"uuid":"7b956a58-3771-4ad5-a5cf-d1ef43194c0a","name":"com.guru.BaseTest.quit","children":["2095a32a-5dbf-45b2-ae10-be227134e576"],"description":"","befores":[],"afters":[{"name":"quit","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1771101193063,"stop":1771101193256}],"start":1771101193062,"stop":1771101193256}

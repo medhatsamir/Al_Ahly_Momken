@@ -1,0 +1,7 @@
+com\guru\CustomerIDPage.class
+com\guru\HomePage.class
+com\guru\TariffPlanAssignedPage.class
+com\guru\AssignTariffPlanToCustomer.class
+com\guru\AddCustomerPage.class
+com\guru\AddTariffPlanToCustomerPage.class
+com\guru\BasePage.class

@@ -1,0 +1,1 @@
+{"uuid":"a9bfa2b8-0ae5-4872-9c1c-a208eb261688","name":"com.guru.BaseTest.setUp","children":["28a9692f-4298-4132-95ce-eb2377a93cf7"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1771100914929,"stop":1771100918836}],"afters":[],"start":1771100914928,"stop":1771100918838}
